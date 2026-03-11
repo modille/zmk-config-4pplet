@@ -19,4 +19,4 @@ include:
   - board: cyber60@rev_d
   - board: cyber60@rev_e
   - board: cyber60@rev_e
-    snippet: settings-reset
+    shield: settings_reset
